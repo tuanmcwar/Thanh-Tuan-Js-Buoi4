@@ -15,7 +15,6 @@
 //   });
 // }
 document.getElementById("bai1").focus();
-document.getElementById("bai1").focus();
 
 document.getElementById("bai1").onclick = function () {
   var Bai1 = document.getElementById("content1");
@@ -31,6 +30,12 @@ document.getElementById("bai1").onclick = function () {
   var Bai1 = document.getElementById("content4");
   Bai1.style.display = "none";
   var Bai1 = document.getElementById("content5");
+  Bai1.style.display = "none";
+  var Bai1 = document.getElementById("content");
+  Bai1.style.display = "none";
+  var Bai1 = document.getElementById("content");
+  Bai1.style.display = "none";
+  var Bai1 = document.getElementById("content");
   Bai1.style.display = "none";
 };
 // function Bai1() {
@@ -51,6 +56,12 @@ document.getElementById("bai2").onclick = function () {
   Bai2.style.display = "none";
   var Bai2 = document.getElementById("content5");
   Bai2.style.display = "none";
+  var Bai2 = document.getElementById("content6");
+  Bai2.style.display = "none";
+  var Bai2 = document.getElementById("content7");
+  Bai2.style.display = "none";
+  var Bai2 = document.getElementById("content8");
+  Bai2.style.display = "none";
 };
 document.getElementById("bai3").onclick = function () {
   var Bai3 = document.getElementById("content3");
@@ -64,6 +75,12 @@ document.getElementById("bai3").onclick = function () {
   var Bai3 = document.getElementById("content4");
   Bai3.style.display = "none";
   var Bai3 = document.getElementById("content5");
+  Bai3.style.display = "none";
+  var Bai3 = document.getElementById("content6");
+  Bai3.style.display = "none";
+  var Bai3 = document.getElementById("content7");
+  Bai3.style.display = "none";
+  var Bai3 = document.getElementById("content8");
   Bai3.style.display = "none";
 };
 document.getElementById("bai4").onclick = function () {
@@ -104,6 +121,8 @@ document.getElementById("bai5").onclick = function () {
   var Bai5 = document.getElementById("content7");
   Bai5.style.display = "none";
   var Bai5 = document.getElementById("content7");
+  Bai5.style.display = "none";
+  var Bai5 = document.getElementById("content8");
   Bai5.style.display = "none";
 };
 // // bài 6
