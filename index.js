@@ -15,6 +15,7 @@
 //   });
 // }
 document.getElementById("bai1").focus();
+document.getElementById("bai1").focus();
 
 document.getElementById("bai1").onclick = function () {
   var Bai1 = document.getElementById("content1");
@@ -78,6 +79,12 @@ document.getElementById("bai4").onclick = function () {
   Bai4.style.display = "none";
   var Bai4 = document.getElementById("content5");
   Bai4.style.display = "none";
+  var Bai4 = document.getElementById("content6");
+  Bai4.style.display = "none";
+  var Bai4 = document.getElementById("content7");
+  Bai4.style.display = "none";
+  var Bai4 = document.getElementById("content8");
+  Bai4.style.display = "none";
 };
 document.getElementById("bai5").onclick = function () {
   var Bai5 = document.getElementById("content5");
@@ -91,6 +98,12 @@ document.getElementById("bai5").onclick = function () {
   var Bai5 = document.getElementById("content3");
   Bai5.style.display = "none";
   var Bai5 = document.getElementById("content4");
+  Bai5.style.display = "none";
+  var Bai5 = document.getElementById("content6");
+  Bai5.style.display = "none";
+  var Bai5 = document.getElementById("content7");
+  Bai5.style.display = "none";
+  var Bai5 = document.getElementById("content7");
   Bai5.style.display = "none";
 };
 // // bài 6
@@ -108,6 +121,10 @@ document.getElementById("bai6").onclick = function () {
   var Bai6 = document.getElementById("content4");
   Bai6.style.display = "none";
   var Bai6 = document.getElementById("content5");
+  Bai6.style.display = "none";
+  var Bai6 = document.getElementById("content7");
+  Bai6.style.display = "none";
+  var Bai6 = document.getElementById("content8");
   Bai6.style.display = "none";
 };
 // // bài 7
@@ -127,6 +144,8 @@ document.getElementById("bai7").onclick = function () {
   var Bai7 = document.getElementById("content5");
   Bai7.style.display = "none";
   var Bai7 = document.getElementById("content6");
+  Bai7.style.display = "none";
+  var Bai7 = document.getElementById("content8");
   Bai7.style.display = "none";
 };
 // // bài 8
